@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="@string/anjola_cen414_app">
+    <menu>
+        <item
+            android:id="@+id/home"
+            android:title="@string/home_page"
+            android:icon="@drawable/baseline_home_black_18dp"/>
+
+    <item android:id="@+id/about_data"
+        android:title="@string/about_data"
+        android:icon="@drawable/round_text_format_black_18dp"/>
+    <item android:id="@+id/data_visual"
+        android:title="@string/data_visual"
+        android:icon="@drawable/round_map_black_18dp"/>
+
+
+    <item android:id="@+id/about_app"
+        android:title="@string/about_app"
+        android:icon="@drawable/round_person_black_18dp"/>
+    </menu>
+</item>
+</menu>

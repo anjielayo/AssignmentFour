@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Anjie App</string>
+
+    <string name="anjola_cen414_app">ANJOLA CEN414 APP</string>
+    <string name="data_visual">Data Visual</string>
+    <string name="about_app">About Application</string>
+    <string name="openNavDrawer">Navigation Drawer Open</string>
+    <string name="closeNavDrawer">Navigation Drawer Close</string>
+    <string name="about_data">About Data</string>
+    <string name="schoolapp">School App</string>
+    <string name="Anjie">Anjie</string>
+    <string name="desc">This is a Description of the App</string>
+
+    <string name="igr">Graph of Nigeria</string>
+    <string name="head">Explaining the Data</string>
+    <string name="aboutData">The National Bureau of Statistics Published Internally Generated Revenue at State level for Half Year 2020.\nThe 36 states and FCT IGR figure hits N612.87bn in H1 2020 compared to N693.91bn recorded in 2019.\nThis indicates a negative growth of -11.7% year on year.\nSimilarly, the Q2 2020 states and FCT IGR figure hits N259.73bn compared to N353.14bn recorded in Q1 2020.\nThis indicates a negative growth of -26.5% quarter on quarter.\nLagos State has the highest Internally Generated Revenue with N204.51bn recorded in H1 2020, closely followed by Rivers State with N64.59bn while Jigawa State recorded the least Internally Generated Revenue.</string>
+    <string name="aboutApp">Name: Olutomilayo Anjolaoluwa\n\n\nMatriculation number:17CJ022536</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome">Welcome to Anjola\'s App</string>
+    <string name="details">Anjolaoluwa Olutomilayo\nanjolaolutomilayo@gmail.com</string>
+    <string name="abia">Abia</string>
+    <string name="graph_of_data">graph of data</string>
+    <string name="home_page">Home Page</string>
+
+</resources>
