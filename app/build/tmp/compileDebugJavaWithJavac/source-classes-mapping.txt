@@ -1,0 +1,12 @@
+com/example/anjieapp/frag3.java
+ com.example.anjieapp.frag3
+com/example/anjieapp/homeFragment.java
+ com.example.anjieapp.homeFragment
+com/example/anjieapp/MainActivity.java
+ com.example.anjieapp.MainActivity
+com/example/anjieapp/frag2.java
+ com.example.anjieapp.frag2
+com/example/anjieapp/BuildConfig.java
+ com.example.anjieapp.BuildConfig
+com/example/anjieapp/frag1.java
+ com.example.anjieapp.frag1
